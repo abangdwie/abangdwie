@@ -11,6 +11,10 @@ I build company-profile websites, landing pages, and simple web apps (HTML/CSS/J
 - **KamaJaya Group** — My business site: company-profile & landing-page design and vehicle tax services (Rembang, Jawa Tengah). [kamajaya.xyz](https://kamajaya.xyz)
 - **make.fun entry** — "Getting started with make.fun" (bring-the-humans-02). [Repo](https://github.com/abangdwie/make-fun-guide)
 
+## On-Chain Experience
+
+Four coordinated EVM wallets plus one Bitcoin address — ~18,600 EVM transactions and 819 Bitcoin transactions, all verifiable on public explorers. Bitcoin activity Feb 2014 – Nov 2018 (819 tx, 89 BTC turnover). Ethereum activity since Nov 2018: early DEX use (EtherDelta, 2018–2020), DeFi summer 2020 (Uniswap V2/V3, Trader Joe), Galxe campaigns (116 OATs on Avalanche), and large-scale testnet farming — 5,332 Sepolia transactions, 2,227 BSC Testnet sends, 1,320 Base Sepolia sends — across Yala, SatoshiVM, Monoswap, Element Launchpad and LayerZero testnets. The four wallets run as one coordinated set (shared funding, same campaigns within minutes). Also holds EIGEN and DIVA from mainnet airdrops. Every figure above is checkable on Etherscan, Routescan and mempool.space; wallet addresses available on request.
+
 ## Skills
 
 HTML · CSS · JavaScript · Node.js · Python · WordPress / WooCommerce · QA Testing · Manual Testing · Web Scraping · Solidity
